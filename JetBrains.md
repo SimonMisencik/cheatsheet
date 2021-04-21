@@ -1,7 +1,5 @@
 ---
 title: JetBrains
-has_children: false
-nav_order: 2
 ---
 
 # JetBrains shortcuts
