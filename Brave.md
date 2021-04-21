@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Brave
 has_children: false
 nav_order: 1
 ---
