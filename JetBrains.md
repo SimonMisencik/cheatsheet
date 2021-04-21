@@ -1,10 +1,10 @@
 ---
-title: Brave
+title: JetBrains
 has_children: false
 nav_order: 2
 ---
 
-# Brave shortcuts
+# JetBrains shortcuts
 
 <p>&nbsp;</p>
 
