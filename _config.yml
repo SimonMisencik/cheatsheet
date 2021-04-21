@@ -1,4 +1,4 @@
 title: "Cheatsheet"
-logo: "/images/book.png"
+# logo: "/images/book.png"
 remote_theme: pmarsceill/just-the-docs
 exclude: ["LICENSE", "README.md"]
