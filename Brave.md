@@ -6,9 +6,14 @@ nav_order: 2
 
 # Brave shortcuts
 
-| Open a new tab | Ctrl + t |
-| a             | a                  |
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+| Open a new tab    | Ctrl + t  |
+| a                 | a         |
+| ok                | good swedi|
+| out of stock      | good and p|
+| ok                | good `ore`|
+| ok                | good `zou`|
