@@ -10,3 +10,6 @@ and
 # grep Password /etc/ssh/sshd_config 
 PermitEmptyPasswords no
 PasswordAuthentication no
+
+
+https://www.digitalocean.com/community/tutorials/how-to-partition-and-format-storage-devices-in-linux
