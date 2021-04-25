@@ -17,3 +17,6 @@ https://www.digitalocean.com/community/tutorials/how-to-partition-and-format-sto
 
 
 https://www.youtube.com/watch?v=pJF83mSllWE
+
+
+https://medium.com/swlh/postgresql-replication-with-docker-c6a904becf77
