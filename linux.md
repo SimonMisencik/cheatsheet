@@ -13,3 +13,7 @@ PasswordAuthentication no
 
 
 https://www.digitalocean.com/community/tutorials/how-to-partition-and-format-storage-devices-in-linux
+
+
+
+https://www.youtube.com/watch?v=pJF83mSllWE
