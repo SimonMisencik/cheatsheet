@@ -20,3 +20,5 @@ https://www.youtube.com/watch?v=pJF83mSllWE
 
 
 https://medium.com/swlh/postgresql-replication-with-docker-c6a904becf77
+
+https://creodias.eu/-/how-to-open-ports-in-linux-
