@@ -23,3 +23,5 @@ https://medium.com/swlh/postgresql-replication-with-docker-c6a904becf77
 
 
 [How to open ports in linux](https://creodias.eu/-/how-to-open-ports-in-linux- "https://creodias.eu/-/how-to-open-ports-in-linux-")
+
+SELECT pg_reload_conf(); - reload pg_hba.conf
