@@ -29,3 +29,5 @@ SELECT pg_reload_conf(); - reload pg_hba.conf
 psql -h <ip_add> -p <port> -d <db_name> -U <user> - pripojenie sa na vzdialenu databazu
   
 https://github1s.com/
+
+https://confluence.jaytaala.com/display/TKB/Create+a+persistent+SSH+tunnel+between+servers+with+systemd
