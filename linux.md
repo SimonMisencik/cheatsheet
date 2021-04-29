@@ -33,3 +33,6 @@ https://github1s.com/
 https://confluence.jaytaala.com/display/TKB/Create+a+persistent+SSH+tunnel+between+servers+with+systemd
 
 https://devconnected.com/how-to-ping-specific-port-number/
+
+
+https://www.brandonchecketts.com/archives/creating-a-permanent-ssh-tunnel-between-linux-servers
