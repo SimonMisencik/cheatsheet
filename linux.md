@@ -36,3 +36,5 @@ https://devconnected.com/how-to-ping-specific-port-number/
 
 
 https://www.brandonchecketts.com/archives/creating-a-permanent-ssh-tunnel-between-linux-servers
+
+https://vsupalov.com/docker-shared-permissions/
