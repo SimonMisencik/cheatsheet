@@ -12,3 +12,6 @@ foo
 ```
 
 https://www.guguweb.com/2019/02/07/how-to-move-docker-data-directory-to-another-location-on-ubuntu/
+
+
+docker image prune -a - vymazat nepouzite docker images
