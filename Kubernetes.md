@@ -1,0 +1,5 @@
+---
+title: Kubernetes
+---
+
+# JetBrains shortcuts
