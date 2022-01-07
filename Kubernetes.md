@@ -2,4 +2,4 @@
 title: Kubernetes
 ---
 
-# JetBrains shortcuts
+# Kubernetes shortcuts
