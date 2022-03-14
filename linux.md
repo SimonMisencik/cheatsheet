@@ -2,7 +2,17 @@
 title: Linux
 ---
 
+# Linux command
+
+| command    | Description   |
+|----------------|----------|
+| pstree | Display tree of processes |
+| hostname | Show or set the system's host name |
+| hostname | Show all network addresses of the host |
+
 # Linux tutorials
+
+
 
 https://linuxize.com/post/how-to-set-up-ssh-keys-on-ubuntu-1804/
 
