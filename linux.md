@@ -8,7 +8,8 @@ title: Linux
 |----------------|----------|
 | pstree | Display tree of processes |
 | hostname | Show or set the system's host name |
-| hostname | Show all network addresses of the host |
+| hostname -I | Show all network addresses of the host |
+| nmap -p <port> <address> | Ping specific port |
 
 # Linux tutorials
 
