@@ -10,6 +10,7 @@ title: Linux
 | hostname | Show or set the system's host name |
 | hostname -I | Show all network addresses of the host |
 | nmap -p \<port\> \<address\> | Ping specific port |
+| ab -n \<number\> http://localhost:80/ | Perform \<number\> requests on specific url (apt install apache2-utils) |
 
 # Linux tutorials
 
