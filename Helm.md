@@ -27,8 +27,10 @@ title: Helm
  
  **NOTE: Always supply values in upgrade becouse default values will be used!**
  
- | helm uninstall | Uninstall chart |
- | .. --namespace first | Uninstall in specific namespace |
+| Command | Description |
+|----------------|----------|
+| helm uninstall | Uninstall chart |
+| .. --namespace first | Uninstall in specific namespace |
  
  TODO: Strana 37
  
