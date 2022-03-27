@@ -2,7 +2,15 @@
 title: Docker
 ---
 
-# Docker shortcuts
+# Docker
+
+## Docker command
+
+| Command | Description |
+|----------------|----------|
+| docker build -t simonmisencik/dp_database:v2.0.0 . | Build image |
+| docker push simonmisencik/dp_database:v2.0.0 | Push image do Docker Hub |
+
 
 <p>&nbsp;</p>
 
