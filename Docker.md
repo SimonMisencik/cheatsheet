@@ -10,7 +10,7 @@ title: Docker
 |----------------|----------|
 | docker build -t simonmisencik/dp_database:v2.0.0 . | Build image |
 | docker push simonmisencik/dp_database:v2.0.0 | Push image do Docker Hub |
-
+| docker-compose up --renew-anon-volumes -d | Run docker-compose and recreate all volumes |
 
 <p>&nbsp;</p>
 
