@@ -1,5 +1,0 @@
----
-title: Kubernetes
----
-
-# Kubernetes shortcuts
