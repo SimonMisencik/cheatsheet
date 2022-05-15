@@ -1,0 +1,16 @@
+input: .
+output: .retype
+url: simonmisencik.github.io/cheatsheet
+branding:
+  title: Cheatsheet
+  label: Docs
+links:
+- text: Home
+  link: /README.md
+  icon: home
+- text: GitHub
+  link: https://github.com/FRINXio
+  icon: mark-github
+  target: blank
+footer:
+  copyright: "&copy; Copyright {{ year }}. SimonMisencik All rights reserved."
