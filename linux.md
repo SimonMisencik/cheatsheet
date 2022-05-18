@@ -50,3 +50,16 @@ https://devconnected.com/how-to-ping-specific-port-number/
 https://www.brandonchecketts.com/archives/creating-a-permanent-ssh-tunnel-between-linux-servers
 
 https://vsupalov.com/docker-shared-permissions/
+  
+  
+
+RESIZE disk on VM
+  https://www.networkshinobi.com/proxmox-linux-vm-template/
+  
+  https://forum.proxmox.com/threads/resize-disk-of-ubuntu-19-10-vm-on-proxmox.70352/
+  
+  sudo parted /dev/sda
+  
+  resizepart 2
+  
+  
