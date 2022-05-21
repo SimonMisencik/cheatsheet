@@ -1,10 +1,12 @@
 ---
-title: Azure CLI
+icon: rocket
+expanded: false
+order: 2000
 ---
 
-# Azure CLI commands
+# Azure CLI
 
-<p>&nbsp;</p>
+## Commands
 
 | Description    | Syntax   |
 |----------------|----------|

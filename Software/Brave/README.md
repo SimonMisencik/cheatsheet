@@ -1,8 +1,13 @@
 ---
-title: Brave
+icon: rocket
+expanded: false
+order: 2000
 ---
 
-# Brave shortcuts
+# Brave
+
+## Shortcuts
+
 
 ### Tabs and Windows
 

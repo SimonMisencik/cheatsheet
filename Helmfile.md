@@ -1,5 +1,0 @@
----
-title: Helmfile
----
-
-# JetBrains shortcuts
