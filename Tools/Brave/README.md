@@ -1,5 +1,5 @@
 ---
-icon: rocket
+icon: browser
 expanded: false
 order: 2000
 ---

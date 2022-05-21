@@ -1,5 +1,5 @@
 ---
-icon: rocket
+icon: cloud
 expanded: false
 order: 2000
 ---
