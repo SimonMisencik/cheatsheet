@@ -1,5 +1,5 @@
 ---
-icon: rocket
+icon: container
 expanded: false
 order: 2000
 ---

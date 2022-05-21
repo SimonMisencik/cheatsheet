@@ -1,6 +1,10 @@
 ---
-title: Helm
+icon: gear
+expanded: false
+order: 2000
 ---
+
+# Helm
 
 # Helm commands
 

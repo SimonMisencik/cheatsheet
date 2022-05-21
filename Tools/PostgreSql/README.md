@@ -1,5 +1,5 @@
 ---
-icon: rocket
+icon: database
 expanded: false
 order: 2000
 ---

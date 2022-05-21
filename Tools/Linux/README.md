@@ -1,6 +1,10 @@
 ---
-title: Linux
+icon: codespaces
+expanded: false
+order: 2000
 ---
+
+# Linux
 
 # Linux command
 
