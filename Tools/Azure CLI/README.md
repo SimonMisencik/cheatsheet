@@ -1,5 +1,5 @@
 ---
-icon: cloud
+icon: hubot
 expanded: false
 order: 2000
 ---
